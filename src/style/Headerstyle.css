@@ -1,0 +1,25 @@
+.headerInside {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  place-items: center;
+}
+
+.listHeder {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  list-style-type: none;
+  width: 30vw;
+
+
+}
+
+.listHeder>li {
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.imgHeader {
+  width: 2vw;
+}

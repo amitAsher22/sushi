@@ -1,0 +1,41 @@
+.sectionUnderImage {
+
+  display: flex;
+  padding: 10vw 0vw;
+  gap: 3rem;
+  align-items: center;
+
+}
+
+
+
+
+
+.lefttSectionTwo {
+  text-align: left;
+  width: 100vw;
+
+}
+
+.directionSectiontwo {
+  display: grid;
+
+  grid-template-columns: 1fr 1fr;
+  box-shadow: 100px 100px 100px 100px rgba(110, 110, 110, 0.055);
+  border-radius: 7px;
+
+
+}
+
+.card {
+  width: 100%;
+  padding: 2rem;
+  border: 1px solid rgba(226, 226, 226, 0.368);
+
+
+
+}
+
+.imgsectiontwo {
+  width: 100%;
+}
