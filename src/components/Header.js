@@ -9,7 +9,7 @@ function Header() {
     <div className="headerInside">
       <ul className="listHeder">
         <li>תפריט</li>
-        <li>מיקום</li>
+        <li>איך עובד ולאן?</li>
         <li>צור קשר</li>
         <li>
           <img className="imgHeader" src={isr} alt="israel" />
