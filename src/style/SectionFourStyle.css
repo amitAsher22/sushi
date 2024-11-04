@@ -1,0 +1,8 @@
+.mainFour {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  box-shadow: 100px 100px 100px 100px rgba(110, 110, 110, 0.055);
+  border-radius: 7px;
+  margin: 2rem 0px;
+}
