@@ -5,13 +5,13 @@ import isr from "../images/israel.png";
 import usa from "../images/usa.png";
 import { Link } from "react-router-dom";
 
-function Header() {
+function EhHeader() {
   return (
     <div className="headerInside">
       <ul className="listHeder">
-        <li>תפריט </li>
-        <li>איך עובד ולאן?</li>
-        <li>צור קשר</li>
+        <li>Menu</li>
+        <li>how it work?</li>
+        <li> contact</li>
         <li>
           <Link to="/">
             <img className="imgHeader" src={isr} alt="israel" />
@@ -28,4 +28,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default EhHeader;
