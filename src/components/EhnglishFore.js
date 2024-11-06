@@ -3,7 +3,7 @@ import imgItem from ".././images/logos.png";
 
 function EhnglishFore() {
   return (
-    <div className="mainFour">
+    <div className="mainFour" id="contact">
       <div className="middleFore">
         <h1 className="titlescetionone"> Contact us</h1>
         <p className="textInfoSectionone">WhatsApp - 052-3157737</p>

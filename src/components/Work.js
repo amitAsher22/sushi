@@ -5,7 +5,7 @@ import img2 from "../images/contact.png";
 
 function Work() {
   return (
-    <div className="sectionTree">
+    <div className="sectionTree" id="work">
       <div className="first">
         <div className="rightSection">
           <h1 className="titlescetionone">

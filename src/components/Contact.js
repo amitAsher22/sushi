@@ -4,7 +4,7 @@ import imgItem from ".././images/logos.png";
 
 function Contact() {
   return (
-    <div className="mainFour">
+    <div className="mainFour" id="contact">
       <div className="middleFore">
         <h1 className="titlescetionone"> יצירת קשר</h1>
         <p className="textInfoSectionone">WhatsApp - 0523157737</p>

@@ -4,7 +4,7 @@ import img2 from "../images/contact.png";
 
 function EnglishTree() {
   return (
-    <div className="sectionTree">
+    <div className="sectionTree" id="work">
       <div className="first">
         <div className="lefttSection">
           <img src={img} alt="dsda" />

@@ -23,7 +23,7 @@ function EnglishTwo() {
   ]);
   return (
     <div>
-      <div className="logoMenuSectionTWO">
+      <div className="logoMenuSectionTWO" id="menu">
         <Logo />
       </div>
       <div className="sectionUnderImage">

@@ -1,0 +1,112 @@
+@media (orientation: portrait) {
+
+  .App {
+    width: 80vw;
+    margin: auto;
+    color: #0f0f0f;
+    font-family: "Heebo", sans-serif;
+  }
+
+  .headerInside {
+    display: flex;
+    flex-direction: column-reverse;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+  }
+
+  .listHeder {
+    display: flex;
+    flex-direction: column-reverse;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+
+  a .imgHeader {
+    width: 15vw;
+  }
+
+  .iconLogo {
+    max-width: 65vw;
+  }
+
+  .listHeder li {
+
+    font-size: 1.5rem;
+  }
+
+  .mainSectionOne {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-direction: column-reverse;
+    padding: 1rem;
+    margin-top: 32rem;
+  }
+
+  .titlescetionone {
+    font-size: 10vw;
+  }
+
+  .sectiononeLeft {
+    width: 100%;
+  }
+
+  .textInfoSectionone {
+    font-size: 3vw;
+  }
+
+  .btnResrvation {
+    font-size: 1rem;
+  }
+
+  .sectionUnderImage {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .rightSectionTwo img {
+    width: 100%;
+  }
+
+  .card {
+    padding: 0px;
+  }
+
+  .directionSectiontwo {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 1rem 0.5rem;
+  }
+
+  .first {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+  }
+
+  .lefttSection img {
+    width: 100%;
+  }
+
+  .second {
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 1rem;
+  }
+
+
+  .textInfoSectionone {
+    font-size: 5vw;
+  }
+
+  .mainFour {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .mainFour img {
+    width: 100%;
+  }
+}
